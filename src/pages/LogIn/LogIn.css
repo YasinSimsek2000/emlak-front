@@ -1,0 +1,4 @@
+.invalid {
+    outline: 2px solid red;
+    border-radius: 4px;
+}
